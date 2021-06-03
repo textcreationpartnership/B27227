@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new ballad of King John and the abbot of Canterbury. To the tune of, The King and the Lord Abbot.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27227</idno><idno type="EEBO-CITATION">99888055</idno>
+  <idno type="VID">193121</idno>
+  <idno type="EEBO-PROQUEST">2240900007</idno>
+  
+            <idno type="STC">Wing N564</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.9[883]</idno>
+            <idno type="STC">ESTC R228941</idno>
+            <idno type="PROQUEST">ocm99888055</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888055e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 193121)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A6:1[523])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new ballad of King John and the abbot of Canterbury. To the tune of, The King and the Lord Abbot.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1670 and 1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With allowance. Ro. L'Estrange."</note>
+                  <note>Date of publication from Wing CD-Rom, 1996.</note>
+                  <note>Verse: "I'll tell you a story, a story anon,".</note>
+                  <note>Imperfect: copy dark and mutilated, affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:193121:1"/>
+            <pb facs="tcp:193121:1"/>
+            <head>A New BALLAD of King John and the Ab<g ref="char:EOLhyphen"/>bot of Canterbury.</head>
+            <opener>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Tune of, <hi>The King and the Lord Abbot.</hi>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <signed>
+                              <hi>Ro. L' Estr<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ng<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <figure>
+                  <figDesc>woodcut of king</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>woodcut of gentleman</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>ILe tell you a Story; a Story anon,</l>
+               <l>Of a noble Prince &amp; his Name was King Iohn.</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he was a Prince, and a Prince of great might,</l>
+               <l>He held up great Wrongs, he put down grea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight,</l>
+               <l>
+                  <hi>Derry down, down hey derry down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Ile tell you a Story, a Story so merry,</l>
+               <l>Concerning the Abbot of <hi>Canterbury,</hi>
+               </l>
+               <l>And of his House-keeping and high Renown.</l>
+               <l>Which made him resort to fair <hi>London</hi> Town<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>down,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Father Abbot? 'tis told unto me,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> a far better House then,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> keeping and High Renown,</l>
+               <l>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Treason against my <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rown</l>
+            </lg>
+            <lg>
+               <l>I hope my Liege that you owe me nogrudge,</l>
+               <l>For spending of my true gotten goods:</l>
+               <l>If thou dost not answer me questions three,</l>
+               <l>Thy head shall be taken from thy Body:</l>
+               <l>
+                  <hi>Derry down,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>When I am set on my steed so high</l>
+               <l>With my Crown of Gold upon my head,</l>
+               <l>Amongst all my Nobility with joy and much mi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</l>
+               <l>Thou must tell me to one penny what I am worth</l>
+               <l>
+                  <hi>Derry down,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And the nevr Question you must not slout,</l>
+               <l>How long I shall be riding the World about</l>
+               <l>And the third Question thou must not shrink;</l>
+               <l>But tell to me truly what I do think:</l>
+               <l>
+                  <hi>Derry down</hi>
+               </l>
+            </lg>
+            <div type="part">
+               <lg>
+                  <l>O These are hard Questions for my <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ow wit,</l>
+                  <l>For I cannot answer your Grace as yet,</l>
+                  <l>But if you will give me but three days space</l>
+                  <l>I'le do my endeavour to answer your Gra<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</l>
+                  <l>
+                     <hi>Derry down, down hey derry down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O three days space I will the give,</l>
+                  <l>For that is the longest day thou hast to live,</l>
+                  <l>And if thou dost not answer these questions right</l>
+                  <l>Thy head shall be taken from thy body qu<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e:</l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And as the Shepherd was going to his sold,</l>
+                  <l>H<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> spy'd the old Abbot come riding alone,</l>
+                  <l>How now Master Abbot? you'r Welcome home:</l>
+                  <l>What News have you brought from good K. <hi>John.</hi>
+                  </l>
+                  <l>
+                     <hi>Derry down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Sad news, sa<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ws, I have th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to give,</l>
+                  <l>For I have but three days space for to live</l>
+                  <l>If I do not <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> him questions three,</l>
+                  <l>My head will be taken from my body</l>
+                  <l>
+                     <hi>Derry down</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When he is sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on his Steed so high:</l>
+                  <l>With his Cr<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of Gold upon his head,</l>
+                  <l>Among shall his Nobility with joy and much <gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>th</l>
+                  <l>I must tell him to one penny what he is worth▪</l>
+                  <l>
+                     <hi>Derry down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And the next question I must not slout,</l>
+                  <l>How long he shall be riding the World abo<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</l>
+                  <l>And the third question thou must not shrink,</l>
+                  <l>But tell to him truly what he does think;</l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>O Master did you never hear it yet,</l>
+                  <l>That a Fool may learn a Wiseman wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Lend <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e but your Horse &amp; your apparel.</l>
+                  <l>Ile <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to fair <hi>London</hi> and answer the Quarrel▪</l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Now I am set on my <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> high,</l>
+                  <l>With my Crown of G<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> u<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on my<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Amongst all my Nobility with<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Now tell me <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o one penny what I<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>For thirty peace our<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Amongst the false Iews<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>And nine and twenty's the worth of tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I think thou <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t one penny<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Derry down.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And the next question<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>How long I shall be riding <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>You must rise with the Sun, and ride with the s<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>redge</l>
+                  <l>Vntill the next morning he rises age<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>And then I am sure you will make no<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>But in twenty four hours you'l ride<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And the third question you<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>But tell to me truly what I do think:</l>
+                  <l>All that I can do, and 'twill make you merr<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>For you think i'm the Abbot of <hi>Cant<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rbury,</hi>
+                  </l>
+                  <l>But i'm his poor Shepherd <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> pouring see</l>
+                  <l>A<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>am come to beg pardon for he and for<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The King he turn'd him aboue and<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>Saying, thou shalt be the Abbot the<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to my Grace, there is no such<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</l>
+                  <l>For I can neither Write <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Read▪</l>
+                  <l>
+                     <hi>Derry down,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then four pounds a week will I give<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>For this merry <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> felt thou hast told un<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </l>
+                  <l>And tell the old Abbot when thou co<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>est<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</l>
+                  <l>Thou hast brought him a pardon from good<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <hi>Derry down, down hey, derry down.</hi>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> P. Breck<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by <hi>at the</hi> Golden<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
